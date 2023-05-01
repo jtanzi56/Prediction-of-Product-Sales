@@ -2,4 +2,14 @@
   Jacob Tanzi
 # Project Overview
 # Load-and-Inspect-Data
-In[]:
+
+
+# Clean Data
+
+
+
+# Exploratory Data Analysis
+
+
+
+# Explanatory Data Analysis
