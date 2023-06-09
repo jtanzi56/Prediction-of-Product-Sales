@@ -39,12 +39,13 @@ The rows represent 8523 observations, and the columns represent 11 features and 
 ### Exploratory Data Analysis
 -While exploring data a heatmap was made of any correlations of numeric data
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+#### Heatmap of correlations
+![sample image](heatmap.png)
 
-> Sentence about visualization.
+>Heatmap used to visualize any correlations between, item weight, item visibility and item outlet sales.
 
-#### Visual 2 Title
+#### Sales by Outlet Type
+![sample image](sales.by.outlet type.png)
 
 ## Model
 
