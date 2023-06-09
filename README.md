@@ -45,7 +45,7 @@ The rows represent 8523 observations, and the columns represent 11 features and 
 >Heatmap used to visualize any correlations between, item weight, item visibility and item outlet sales.
 
 #### Sales by Outlet Type
-![sample image](sales.by.outlet type.png)
+sales.by.outlet type.png
 
 ## Model
 
