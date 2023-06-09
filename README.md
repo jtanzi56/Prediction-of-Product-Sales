@@ -40,7 +40,7 @@ The rows represent 8523 observations, and the columns represent 11 features and 
 -While exploring data a heatmap was made of any correlations of numeric data
 
 #### Heatmap of correlations
-![sample image](heatmap.png)
+https://github.com/jtanzi56/Prediction-of-Product-Sales/blob/d685b5e055ee6a99c580b5e35ef55d67f55b16f6/heatmap.png
 
 >Heatmap used to visualize any correlations between, item weight, item visibility and item outlet sales.
 
