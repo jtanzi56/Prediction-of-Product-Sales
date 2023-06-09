@@ -74,42 +74,41 @@ Supermarket Type 3 out preforms all other Outlet Types in all Item Types, with t
 
 ## Models Evaluated & Results
 
-Linear Regression Test Scores
-MAE: 804.9629 
-MSE: 1,196,932.5739 
-RMSE: 1,094.0441 
-R2: 0.5662
+ Linear Regression Test Scores:
+ - MAE: 804.9629 
+ - MSE: 1,196,932.5739 
+ - RMSE: 1,094.0441 
+ - R2: 0.5662
 
-Lasso Linear Test Scores
-MAE: 803.7264 
-MSE: 1,194,063.4234 
-RMSE: 1,092.7321 
-R2: 0.5672
+Lasso Linear Test Scores:
+ - MAE: 803.7264 
+ - MSE: 1,194,063.4234 
+ - RMSE: 1,092.7321 
+ - R2: 0.5672
 
-Decision Tree Test Scores
-MAE: 1,065.2825 
-MSE: 2,403,008.5516 
-RMSE: 1,550.1640 
-R2: 0.1290
+Decision Tree Test Scores:
+ - MAE: 1,065.2825 
+ - MSE: 2,403,008.5516 
+ - RMSE: 1,550.1640 
+ - R2: 0.1290
 
-Decision Tree Tuned Test Scores
-MAE: 738.2100 
-MSE: 1,115,558.0387 
-RMSE: 1,056.1998 
-R2: 0.5957
+Decision Tree Tuned Test Scores:
+ - MAE: 738.2100 
+ - MSE: 1,115,558.0387 
+ - RMSE: 1,056.1998 
+ - R2: 0.5957
 
+Bagreg Tree Test Scores:
+ - MAE: 814.2355 
+ - MSE: 1,373,290.9707 
+ - RMSE: 1,171.8750 
+ - R2: 0.5022
 
-Bagreg Tree Test Scores
-MAE: 814.2355 
-MSE: 1,373,290.9707 
-RMSE: 1,171.8750 
-R2: 0.5022
-
-Random Forest Test Scores
-MAE: 795.2895 
-MSE: 1,308,147.1894 
-RMSE: 1,143.7426 
-R2: 0.5259
+Random Forest Test Scores:
+ - MAE: 795.2895 
+ - MSE: 1,308,147.1894 
+ - RMSE: 1,143.7426 
+ - R2: 0.5259
 
 
 
@@ -120,18 +119,16 @@ I believe we achived the goal to help the retailer understand the properties of 
 
 As seen in these features used by the Random Forest Model
 
-Item_Weight
-Item_MRP
-Item_Fat_Content_Low Fat
-Item_Fat_Content_Regular
-Item_Type_Baking Goods
-Item_Type_Breads
-Item_Type_Breakfast
-Item_Type_Canned
-Item_Type_Dairy
-Item_Type_Frozen Foods
-More of your own text here
-
+- Item_Weight
+- Item_MRP
+- Item_Fat_Content_Low Fat
+- Item_Fat_Content_Regular
+- Item_Type_Baking Goods
+- Item_Type_Breads
+- Item_Type_Breakfast
+- Item_Type_Canned
+- Item_Type_Dairy
+- Item_Type_Frozen Foods
 
 ## Next Steps
 Will continue to analyze machine learning models to find best balance of bias and variance. As more data becomes avaliable I am confident the Random Forest Model will continue to improve. 
